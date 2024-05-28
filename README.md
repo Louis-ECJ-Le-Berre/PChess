@@ -24,11 +24,11 @@ The first player to connect plays as the White Player. He has to begin the game 
 
 To make a move, you juste have to click in one of your piece (the square under it will become green) and click on an another square of the board. If the move is legal, then the pice will efectively move, and your opponent's turn begins. If you have selected a piece and wante to play another, don't worry : you just have to double-click the other piece you want to play to select it.
 
-## Make a pre-move
+### Make a pre-move
 
 When it is not your turn, you canmake  pre-move to play instantly as soon as your opponent has made his moove. To do so, you only have to click on a piece then on a square. To cancela pre-move, you just have to click on one of your piece.
 
-## Terminal display
+### Terminal display
 
 The terminal will be useful to gather information on the game. It will wwarn you when your move is illegal (and why), as well as if your check or checkmate.
 
